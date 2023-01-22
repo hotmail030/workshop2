@@ -2,4 +2,4 @@ this is another text about me
 
 this is the conflict
 
-another conflict 
+another conflict and another 
